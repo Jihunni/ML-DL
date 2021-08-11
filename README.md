@@ -8,4 +8,13 @@
   - `TimeDistributedDense` applies a same dense to every time step during GRU/LSTM Cell unrolling. So the error function will be between predicted label sequence and the actual label sequence. (Which is normally the requirement for sequence to sequence labeling problems).
   - with `return_sequences=False`, Dense layer is applied only once at the last cell. This is normally the case when RNNs are used for classification problem. If `return_sequences=True` then Dense layer is applied to every timestep just like TimeDistributedDense.
 
+## LSTM
+- learn what recognize an important input (input gate), store it in the long-term state, preserve it for as long as it is needed (forget gate), and extract it whenever it is needed.
+- two hidden states: h_t (short-term state; 'h' stands for 'hidden'), c_t (long-term state; 'c' stands for 'cell')
+- gate controller : the logistic activation function. Its output ranges from 0 to 1. Output 0 means closure of the gate. Output 1 means openness of the gate.
+  - forget gate
+  - input gate
+  - output gate
+
 ## creating training dataset : window
+
