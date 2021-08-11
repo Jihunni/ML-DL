@@ -1,3 +1,17 @@
+# Machine Learning Basics
+- Machine Learning Model Evaluation Metrics | PyData LA 2019 | [video](https://youtu.be/PeYQIyOyKB8)
+  - classification error metrics
+    - accuracy : low performance on unbalanced data
+    - confusion matrix
+    - F1 score
+    - AUC
+    - and ...
+  - regression error metics
+    -  R^2
+    -  mean square error
+    -  absolute error
+    -  root mean squared logarithmic error
+    -  mean absoloute percentage error
 # RNN
 ## RNN basics
 - [[Korean blog] RNN basic](https://taeu.github.io/nlp/deeplearning-nlp-rnn)
