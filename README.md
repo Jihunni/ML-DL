@@ -32,3 +32,6 @@
 
 ## creating training dataset : window
 
+# attention
+- the concept of attention mechanism | [video](https://youtu.be/6aouXD8WMVQ)
+- transformer | [video](https://www.youtube.com/watch?v=AA621UofTUA)
