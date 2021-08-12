@@ -15,6 +15,7 @@
 # RNN
 ## RNN basics
 - [[Korean blog] RNN basic](https://taeu.github.io/nlp/deeplearning-nlp-rnn)
+- What is the output in a RNN? | [stack overflow](https://math.stackexchange.com/questions/3107394/what-is-the-output-in-a-rnn)
 - return_sequences
   - `return_sequences=True` : [batch_size, time_steps, input_dimensionality(input_features)] (contining the output for all time steps)
   - `return_sequences=False` : [batch size, input_dimensionality(input_features)] (containing the output of the last time stamp)
