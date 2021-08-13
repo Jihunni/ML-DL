@@ -40,3 +40,4 @@
 
 # transformer
 - Attention Is All You Need
+- What exactly are keys, queries, and values in attention mechanisms? | [stack overflow](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
