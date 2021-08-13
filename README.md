@@ -34,5 +34,9 @@
 ## creating training dataset : window
 
 # attention
+- Neural Machine Translation by Jointly Learning to Align and Translate | [paper1](https://arxiv.org/abs/1409.0473) 
 - the concept of attention mechanism | [video](https://youtu.be/6aouXD8WMVQ)
 - transformer | [video](https://www.youtube.com/watch?v=AA621UofTUA)
+
+# transformer
+- Attention Is All You Need
