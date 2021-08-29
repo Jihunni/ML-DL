@@ -15,6 +15,10 @@
 
 # GNN (Graph Neural Network)
 - Intro to graph neural networks (ML Tech Talks) | [video](https://www.youtube.com/watch?v=8owQBFAHw7E)
+  - application of GNN : prediction of drug properties from structure
+  - A Deep Learning Approach to Antibiotic Discovery | Cell, 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
+  - application of GNN : estimate ETA
+  - application of GNN : social network
 
 
 # RNN
