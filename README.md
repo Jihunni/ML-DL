@@ -12,6 +12,11 @@
     -  absolute error
     -  root mean squared logarithmic error
     -  mean absoloute percentage error
+
+# GNN (Graph Neural Network)
+- Intro to graph neural networks (ML Tech Talks) | [video](https://www.youtube.com/watch?v=8owQBFAHw7E)
+
+
 # RNN
 ## RNN basics
 - [[Korean blog] RNN basic](https://taeu.github.io/nlp/deeplearning-nlp-rnn)
