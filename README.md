@@ -1,4 +1,11 @@
 # Machine Learning Basics
+- Machine learning sub-problems
+  - classification : data to discrete class label. Predicting a class label
+  - regression : predicting a numerical value
+  - similarity : finding similar/dissimilar data
+  - clustering : discovering structure in data
+  - embedding : data to a vector
+  - reinforcement learning : training by feedback
 - Machine Learning Model Evaluation Metrics | PyData LA 2019 | [video](https://youtu.be/PeYQIyOyKB8)
   - classification error metrics
     - accuracy : low performance on unbalanced data
