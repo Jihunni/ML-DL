@@ -1,4 +1,8 @@
 # Chapter 2. Preliminaries
+## Colab
+![colab system](https://user-images.githubusercontent.com/48517782/132804561-9b50f89e-42cb-400d-9099-7780d1b92eb0.jpg)
+
+
 ## 2.04 Calculus
 A computer can not calculate a derivatives. Instead, a computer estimate a derivatives by numerical method.
 
