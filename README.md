@@ -20,6 +20,15 @@
     -  root mean squared logarithmic error
     -  mean absoloute percentage error
 
+# Solution for overfitting
+- data augmentation
+- ensemble
+- dropout
+- skip connection 
+  Ref: https://lswook.tistory.com/105  
+  ensemble-like structure
+  ![image](https://user-images.githubusercontent.com/48517782/142642903-49b4a5d6-75aa-472a-9900-a2b79f671a83.png)
+
 # GNN (Graph Neural Network)
 - Intro to graph neural networks (ML Tech Talks) | [video](https://www.youtube.com/watch?v=8owQBFAHw7E)
   - application of GNN : prediction of drug properties from structure
