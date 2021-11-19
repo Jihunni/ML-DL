@@ -16,3 +16,13 @@ class GNN(torch.nn.Module):
   def __init__(self):
     self.conv1 = GNVConv
 ```
+
+# Ref 
+https://www.microsoft.com/en-us/research/video/msr-cambridge-lecture-series-an-introduction-to-graph-neural-networks-models-and-applications/  
+TF Graph Neural Network Samples   
+https://github.com/microsoft/tf-gnn-samples#brockschmidt-2019  
+  
+  
+Node Classification with Graph Neural Network  
+https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/graph/ipynb/gnn_citations.ipynb#scrollTo=oRBphsN3whlI  
+
