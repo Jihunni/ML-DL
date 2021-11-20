@@ -19,7 +19,11 @@
     -  absolute error
     -  root mean squared logarithmic error
     -  mean absoloute percentage error
-
+  - permutation invariant: a model that produces the same output regardless of the order of elements in the input vector
+    e.g. permutation invariant model : MLP
+    e.g. permutation invariant operation : sum, mean, median, max, min
+    e.g. permutation variant model : CNN, RNN --> position information
+  - 
 # Solution for overfitting
 - data augmentation
 - ensemble
