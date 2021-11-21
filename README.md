@@ -42,6 +42,8 @@
   - application of GNN : estimate ETA
   - application of GNN : social network
 
+# GNN paper
+- Modeling Polypharmacy Side Effects with Graph Convolutional Networks
 
 # RNN
 ## RNN basics
