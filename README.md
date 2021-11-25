@@ -76,3 +76,13 @@
 - Attention Is All You Need
 - What exactly are keys, queries, and values in attention mechanisms? | [stack overflow](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
 - Pay Attention to MLPs
+
+# computer vision
+- two stage detection : slow, accurate
+  - R-CNN
+  - fast R-CNN : 
+  - faster R-CNN : regional proposal network
+- one stage detection : fast, inaccurate, not easy to train  
+  Frame per Second (FPS) > 30 : criteria for real time visualization  
+  - YOLO : grid --> conditional class probility and bouding boxes + confidence --> final detection
+  - Single Shot Detection (SSD)
