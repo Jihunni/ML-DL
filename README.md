@@ -9,6 +9,7 @@
 - Machine Learning Model Evaluation Metrics | PyData LA 2019 | [video](https://youtu.be/PeYQIyOyKB8)
   - classification error metrics
     - accuracy : low performance on unbalanced data
+    - mean Average precision (mAP)
     - confusion matrix
     - F1 score
     - AUC
