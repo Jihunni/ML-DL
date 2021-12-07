@@ -86,3 +86,14 @@
   Frame per Second (FPS) > 30 : criteria for real time visualization  
   - YOLO : grid --> conditional class probility and bouding boxes + confidence --> final detection
   - Single Shot Detection (SSD)
+
+# NLP
+Allen Institute for AI  
+Yejin Choi  
+Q. how to reduce the sterotype or bias such as racism or sexism?  
+  - dateset
+    - "garbage in, garbage out"
+    - data augmentation
+  - objective function
+    - a traditional objective function minimize/maximize the error
+    - To handling the bias, add 'gender' variable and a constraint that make 'gender' variable equally.
