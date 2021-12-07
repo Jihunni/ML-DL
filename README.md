@@ -86,9 +86,17 @@
   Frame per Second (FPS) > 30 : criteria for real time visualization  
   - YOLO : grid --> conditional class probility and bouding boxes + confidence --> final detection
   - Single Shot Detection (SSD)
-
+- application
+  - image colorization
+## Generative adversarial network
+- gaugan system
+  - https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/
+- cycleGAN : cycle-consistant adversarial network
+  - idea : A -> B -> A'
+  - cycle-consistency loss : abs(A - A')
 # NLP
-Allen Institute for AI  
+## Allen Institute for AI  
+Perspective : All thihg in ML/DL is human efforts. (e.g. training data selection, loss function, model architecture)  
 Yejin Choi  
 Q. how to reduce the sterotype or bias such as racism or sexism?  
   - dateset
@@ -97,3 +105,4 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
   - objective function
     - a traditional objective function minimize/maximize the error
     - To handling the bias, add 'gender' variable and a constraint that make 'gender' variable equally.
+
