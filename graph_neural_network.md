@@ -1,3 +1,8 @@
+# Graph neural network
+- spectral approach : depend on a specific graph structure.
+- non-spectral approach : define convolutions directly on the graph, operating on groups of spatially close neighbors.
+  - GraphSAGE : a graph representaiton in inductive wayl
+
 # Stanford Graph Learning Workshop
 https://snap.stanford.edu/graphlearning-workshop/index.html
 # CS224W: Machine Learning with Graphs
