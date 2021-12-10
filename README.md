@@ -68,11 +68,26 @@
 ## creating training dataset : window
 
 # attention
+## papers
 - Neural Machine Translation by Jointly Learning to Align and Translate | [paper1](https://arxiv.org/abs/1409.0473) 
 - the concept of attention mechanism | [video](https://youtu.be/6aouXD8WMVQ)
 - transformer | [video](https://www.youtube.com/watch?v=AA621UofTUA)
-
-# transformer
+## concepts
+- query, key, value
+- attention pooling : Given a query, attention pooling biases selection over values.
+- attention scoring function : a weighted sum of the values based on these attention weights
+  - masked softmax operation
+  - additive attention
+  - scaled dot-product attention
+- Bahdanau Attention : encoder-decoder
+  `paper` Neural Machine Translation by Jointly Learning to Align and Translate | [paper1](https://arxiv.org/abs/1409.0473) 
+- self-attention (intra-attention) and positional encoding
+  - self-attention : query, key, and values come from the same place
+  - positional encoding :  to use the sequence order information, we can inject absolute or relative positional information by adding positional encoding to the input representation.
+    X + P (X : input representation, P: positional embedding matrix)  
+    
+  - 
+## transformer
 - Attention Is All You Need
 - What exactly are keys, queries, and values in attention mechanisms? | [stack overflow](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
 - Pay Attention to MLPs
