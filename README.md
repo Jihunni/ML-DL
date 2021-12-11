@@ -28,11 +28,13 @@
 # Solution for overfitting
 - data augmentation
 - ensemble
+  Ref: https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/ 
 - dropout
 - skip connection 
   Ref: https://lswook.tistory.com/105  
   ensemble-like structure
   ![image](https://user-images.githubusercontent.com/48517782/142642903-49b4a5d6-75aa-472a-9900-a2b79f671a83.png)
+
 # Optimization
 - `paper` Taking the Human Out of the Loop: A Review of Bayesian Optimization
 
