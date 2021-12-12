@@ -54,7 +54,10 @@
   - graph coarsening algorithms
 - global pooling architecture : Node feature representation. effective on a graph with smaller number of nodes.
 - hierarchical pooling architecture : effective on a graph with larger number of nodes.
+  - DiffPool
+  - graph pooling (gPool) 
   
+ - Graph U-Net
 - Self-Attention Graph pooling (SAGpool)
 
 # GNN paper
