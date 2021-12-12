@@ -44,6 +44,18 @@
   - A Deep Learning Approach to Antibiotic Discovery | Cell, 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
   - application of GNN : estimate ETA
   - application of GNN : social network
+## Graph Convolution
+- spectral approahces : to redefine the convolution operation in the Fourier domain, utilizing spectral filters that use ghe graph Laplacian.
+- non-spectral approaches : to define the colvution operation directly on the graph.
+  - GraphSAGE : node embedding through sampling and aggregation
+  - Graph Attention Network (GAT)
+## Graph pooling
+- topology based pooling : 
+  - graph coarsening algorithms
+- global pooling architecture : Node feature representation. effective on a graph with smaller number of nodes.
+- hierarchical pooling architecture : effective on a graph with larger number of nodes.
+  
+- Self-Attention Graph pooling (SAGpool)
 
 # GNN paper
 - Modeling Polypharmacy Side Effects with Graph Convolutional Networks
