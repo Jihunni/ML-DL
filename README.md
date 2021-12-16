@@ -137,4 +137,14 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
   - objective function
     - a traditional objective function minimize/maximize the error
     - To handling the bias, add 'gender' variable and a constraint that make 'gender' variable equally.
-
+## basic stuff
+- `review` A Primer on Neural Network Models for Natural Language Processin
+## distributed representation (word embeddings) : low-dimensional space
+- word embeddings
+- Word2vec
+  - CBOW
+  - skip-gram
+- Chateracter Embedding : out-of-vocabulary (OOV) words
+- Contextualized word embeddings
+  - Embedding from Language Model (ELMo)
+    Ref : https://wikidocs.net/33930
