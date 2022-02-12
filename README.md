@@ -85,6 +85,12 @@
 ## creating training dataset : window
 
 # attention
+## previous research
+- layer normalization
+- residual connection
+  - ResNet
+- 
+
 ## papers
 - Neural Machine Translation by Jointly Learning to Align and Translate | [paper1](https://arxiv.org/abs/1409.0473) 
 - the concept of attention mechanism | [video](https://youtu.be/6aouXD8WMVQ)
