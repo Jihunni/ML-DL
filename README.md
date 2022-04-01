@@ -160,3 +160,6 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
 - https://mlops-for-all.github.io/
 - https://fullstackdeeplearning.com/
 - http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158392888
+- https://www.youtube.com/watch?v=8R4DDEqjc0I
+- production kubernetes
+- Kubernetes in Action
