@@ -154,3 +154,9 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
 - Contextualized word embeddings
   - Embedding from Language Model (ELMo)
     Ref : https://wikidocs.net/33930
+
+# MLOps
+- https://madewithml.com/
+- https://mlops-for-all.github.io/
+- https://fullstackdeeplearning.com/
+- http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158392888
