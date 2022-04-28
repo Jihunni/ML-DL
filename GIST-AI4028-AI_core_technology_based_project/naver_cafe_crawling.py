@@ -39,6 +39,7 @@ options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome('chromedriver', options=options)
 
 # crawling
+total_list = []
 URL = 'https://cafe.naver.com/bezzeraclub?iframe_url=/ArticleList.nhn%3Fsearch.clubid=22853449%26search.boardtype=L%26search.totalCount=151%26search.cafeId=22853449%26search.page='
 for i in tqdm(range(NUM_PAGES)): #스크래핑 할 페이지수 
     pg = str(i+1) 
@@ -60,7 +61,7 @@ for i in tqdm(range(NUM_PAGES)): #스크래핑 할 페이지수
     remove_str_on_title_head = '\n                                \n                                \n\n                                \n                                \n\n                                \n                                \n                                    \n                                    '
     remove_str_on_title_tail = '\n                                    \n                                \n                            '
     
-    total_list = []
+    
     if i==0 : # notice
         assert len(a_article_list) == len(a_writer_list) == len(a_regdate_list) == len(strong_boardtag_list) + len(a_linkname_list)
     
@@ -91,7 +92,7 @@ for i in tqdm(range(NUM_PAGES)): #스크래핑 할 페이지수
             article_content_list = soup.findAll("span",{"class":"se-fs- se-ff- "})
             contents = ''
             for index in range(len(article_content_list)):
-                contents += str(article_content_list[index].string) + '\n'
+                contents += str(article_content_list[index].string) + ' '
             sub_list.append(contents) # article contents
             if PRINT: print(adrs) 
 
@@ -128,7 +129,7 @@ for i in tqdm(range(NUM_PAGES)): #스크래핑 할 페이지수
             contents = ''
             article_content_list = soup.findAll("span",{"class":"se-fs- se-ff- "})
             for index in range(len(article_content_list)):
-                contents += str(article_content_list[index].string) + '\n'
+                contents += str(article_content_list[index].string) + ' '
             sub_list.append(contents) # article contents
             if PRINT: print(adrs) 
 
