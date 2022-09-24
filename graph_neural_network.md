@@ -31,3 +31,7 @@ https://github.com/microsoft/tf-gnn-samples#brockschmidt-2019
 Node Classification with Graph Neural Network  
 https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/graph/ipynb/gnn_citations.ipynb#scrollTo=oRBphsN3whlI  
 
+# Q&A
+- Interpretation of Symmetric Normalised Graph Adjacency Matrix
+  Ref: https://math.stackexchange.com/questions/3035968/interpretation-of-symmetric-normalised-graph-adjacency-matrix
+- 
