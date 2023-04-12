@@ -155,6 +155,12 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
   - Embedding from Language Model (ELMo)
     Ref : https://wikidocs.net/33930
 
+# Generative model
+- Generative adversarial networks (GANs)
+- autoregressive models
+- flows
+- variational autoencoders (VAEs)
+  - `paper` Auto-Encoding Variational Bayes [link](https://arxiv.org/abs/1312.6114)
 # MLOps
 - https://madewithml.com/
 - https://mlops-for-all.github.io/
