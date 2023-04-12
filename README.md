@@ -163,6 +163,8 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
   - `paper` Auto-Encoding Variational Bayes [link](https://arxiv.org/abs/1312.6114)
 - Diffusion probabilistic model
   - `paper` Denoising Diffusion Probabilistic Models
+  - `paper` DENOISING DIFFUSION IMPLICIT MODELS
+  - Stable diffusion: `paper` High-Resolution Image Synthesis with Latent Diffusion Model
 # MLOps
 - https://madewithml.com/
 - https://mlops-for-all.github.io/
