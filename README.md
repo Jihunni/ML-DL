@@ -161,6 +161,8 @@ Q. how to reduce the sterotype or bias such as racism or sexism?
 - flows
 - variational autoencoders (VAEs)
   - `paper` Auto-Encoding Variational Bayes [link](https://arxiv.org/abs/1312.6114)
+- Diffusion probabilistic model
+  - `paper` Denoising Diffusion Probabilistic Models
 # MLOps
 - https://madewithml.com/
 - https://mlops-for-all.github.io/
